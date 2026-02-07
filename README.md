@@ -7,7 +7,7 @@ Tenho experiência prática com **Java (Spring)**, **Python** e **AWS**, e sou *
 * 🏅 AWS Certified Developer – Associate
 * 🏅 AWS Certified Solutions Architect – Associate
 
-## 🏆 Credly Badges
+## 🏆 Certificações
 
 [![Credly Badges](https://img.shields.io/badge/See%20my%20Badges-Credly-1DA1F2?logo=credly&logoColor=white)](https://www.credly.com/users/diovanimotta/badges)
 ---
