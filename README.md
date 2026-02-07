@@ -1,13 +1,15 @@
 # 👋 Olá, eu sou o Diovani Bernardi da Motta
 
 Sou **engenheiro de software** com foco no desenvolvimento de soluções **escaláveis, resilientes e de alto desempenho**, atuando principalmente no **back-end**, mas com experiência também em **front-end** e **cloud computing**.
-
 Tenho experiência prática com **Java (Spring)**, **Python** e **AWS**, e sou **certificado 3x AWS**:
 
 * 🏅 AWS Certified Cloud Practitioner
 * 🏅 AWS Certified Developer – Associate
 * 🏅 AWS Certified Solutions Architect – Associate
 
+## 🏆 Credly Badges
+
+[![Credly Badges](https://img.shields.io/badge/See%20my%20Badges-Credly-1DA1F2?logo=credly&logoColor=white)](https://www.credly.com/users/diovanimotta/badges)
 ---
 
 ## 🚀 Minha estória
