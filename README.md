@@ -12,11 +12,13 @@ Tenho experiência prática com **Java (Spring)**, **Python** e **AWS**, e sou *
 
 ## 🚀 Minha estória
 
-Ao longo da minha carreira, venho atuando no desenvolvimento de **APIs**, **sistemas distribuídos** e **integrações em nuvem**, sempre buscando equilíbrio entre **qualidade técnica**, **performance** e **manutenibilidade**.
+Atuo na área de Tecnologia da Informação desde 2008 e trabalho diretamente com desenvolvimento de software desde 2012, acumulando sólida experiência na construção, evolução e sustentação de sistemas ao longo de diferentes contextos e desafios técnicos.
 
-Tenho experiência com **automatização de processos**, **mensageria**, **processamento assíncrono** e **arquiteturas orientadas a eventos**, além da aplicação constante de **boas práticas de engenharia de software**, como **orientação a objetos**, **padrões de projeto** e **clean code**.
+Ao longo da minha carreira, venho atuando no desenvolvimento de APIs, sistemas distribuídos e integrações em nuvem, sempre buscando equilíbrio entre qualidade técnica, performance e manutenibilidade.
 
-Gosto de trabalhar em ambientes colaborativos, com foco em **entregas contínuas**, aprendizado constante e evolução da arquitetura dos sistemas.
+Tenho experiência com automatização de processos, mensageria, processamento assíncrono e arquiteturas orientadas a eventos, além da aplicação constante de boas práticas de engenharia de software, como orientação a objetos, padrões de projeto e clean code.
+
+Gosto de trabalhar em ambientes colaborativos, com foco em entregas contínuas, aprendizado constante e evolução da arquitetura dos sistemas.
 
 ---
 
