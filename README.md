@@ -3,7 +3,7 @@
 Sou **Arquiteto de software** com foco no desenvolvimento de soluções **escaláveis, resilientes e de alto desempenho**, atuando principalmente no **back-end**, mas com experiência também em **front-end** e **cloud computing**.
 Tenho experiência prática com **Java (Spring)**, **Python** e **AWS**, e sou **certificado 3x AWS**:
 
-* 🏅 AWS Certified Cloud Practitioner
+* 🏅 AWS Certified Cloud Practitioner – Foundational
 * 🏅 AWS Certified Developer – Associate
 * 🏅 AWS Certified Solutions Architect – Associate
 
